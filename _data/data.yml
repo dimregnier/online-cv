@@ -43,8 +43,8 @@ sidebar:
     - idiom: Anglais
       level: Professionnel
 
-    # - idiom: Spanish
-      # level: Professional
+    - idiom: # Spanish
+      level: # Professional
 
   interests:
     title: Centres d’intérêt
@@ -62,14 +62,11 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Résumé
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Auteur et comédien. Passionné par le web, l’écriture et le son.
+    Je forme à la [création de podcasts](https://dimitriregnier.net/blog/retour-d-atelier/) narratifs
+    et à la [prise de parole](https://dimitriregnier.net/blog/un-enjeu-personnel/) en public à Nantes.
 education:
   title: Education
   info:
