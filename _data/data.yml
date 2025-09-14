@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Dimitri Régnier
   tagline: Producteur d'émotions
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: moi.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: yo@dimi.re
