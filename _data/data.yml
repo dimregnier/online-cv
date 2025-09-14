@@ -17,7 +17,7 @@ sidebar:
   phone: 024 072 2262
   timezone: Europe/Paris # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://dimitriregnier.net/ # Include the full website URL, including "http://" or "https://".
+  website: https://dimitriregnier.net # Include the full website URL, including "http://" or "https://".
   linkedin: # alandoe
   xing: # alandoe
   github: dimregnier
@@ -57,9 +57,8 @@ sidebar:
       link: https://podcast.dimitriregnier.net/
 
 
-    - item: Lecture
-      link: Science-Fiction, Fantastique, Essai et Sociologie.
-
+    - item: # Lecture
+      link: 
 
 career-profile:
   title: Résumé
@@ -68,22 +67,11 @@ career-profile:
     Je forme à la [création de podcasts](https://dimitriregnier.net/blog/retour-d-atelier/) narratifs
     et à la [prise de parole](https://dimitriregnier.net/blog/un-enjeu-personnel/) en public à Nantes.
 education:
-  title: Éducation
+  title: Formation
   info:
   - degree: Licence d’études théâtrales
     university: Université Aix/Marseille I
     time: 1997 - 1998
-    # details: |
-      # Describe your study here lorem ipsum dolor sit amet, consectetuer
-      # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      # sociis natoque penatibus et magnis dis parturient montes, nascetur
-      # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      # pretium quis, sem.
-        # - Bullet point
-        # - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,6 +80,39 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
+  - degree: Deust 2 Formation aux métiers du théâtre
+    university: Université Aix/Marseille I
+    time: 1994 - 1995
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: Deug 1 de Lettres Modernes
+    university: Université de Nantes
+    time: 1993 - 1994
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: Prix de comédie
+    university: Conservatoire National de Région de Nantes
+    time: 1991 - 1993
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point     
 
 experiences:
   title: Experiences
