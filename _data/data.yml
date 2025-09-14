@@ -17,7 +17,7 @@ sidebar:
   phone: 024 072 2262
   timezone: Europe/Paris # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: https://dimitriregnier.net/ # Include the full website URL, including "http://" or "https://".
   linkedin: # alandoe
   xing: # alandoe
   github: dimregnier
@@ -47,18 +47,18 @@ sidebar:
       # level: Professional
 
   interests:
-    title: Interests
+    title: Centres d’intérêt
     info:
-    - item: Climbing
-      link:
+    - item: Web
+      link: https://dimitriregnier.net/blog/laudionaute/
 
 
-    - item: Snowboarding
-      link:
+    - item: Podcasting
+      link: https://podcast.dimitriregnier.net/
 
 
-    - item: Cooking
-      link:
+    - item: Lecture
+      link: Science-Fiction, Fantastique, Essai et Sociologie.
 
 
 career-profile:
