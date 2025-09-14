@@ -68,19 +68,19 @@ career-profile:
     Je forme à la [création de podcasts](https://dimitriregnier.net/blog/retour-d-atelier/) narratifs
     et à la [prise de parole](https://dimitriregnier.net/blog/un-enjeu-personnel/) en public à Nantes.
 education:
-  title: Education
+  title: Éducation
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: Licence d’études théâtrales
+    university: Université Aix/Marseille I
+    time: 1997 - 1998
+    # details: |
+      # Describe your study here lorem ipsum dolor sit amet, consectetuer
+      # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      # sociis natoque penatibus et magnis dis parturient montes, nascetur
+      # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      # pretium quis, sem.
+        # - Bullet point
+        # - Bullet point
   - degree: BSc in Applied Mathematics
     university: Bristol University
     time: 2007 - 2011
